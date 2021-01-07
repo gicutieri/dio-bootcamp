@@ -1,0 +1,44 @@
+/*
+	Autora: Giovanna Gonçalves Cutieri
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&family=Raleway&display=swap');
+
+*{
+	background: #121212;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+}
+
+section{
+	padding: 7%
+}
+
+h1{
+	height: 100%;
+	font-size: 40px;
+	font-family: 'Pirata One', cursive;
+	background-image: url("html-code-image.jpg");
+	background-size: cover;
+	background-color: black;
+
+}
+
+header{
+	background: black;
+}
+
+ul{
+	list-style: none;
+	text-decoration: none;
+	background: black;
+}
+
+ul:hover{
+	text-decoration: underline;
+}
+
+li{
+	background: black;
+}
