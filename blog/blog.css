@@ -15,15 +15,21 @@ section{
 	padding: 7%
 }
 
-h1{
-	height: 300px;
-	font-size: 40px;
-	font-family: 'Pirata One', cursive;
+#capa{
 	background-image: url("html-code-image.jpg");
 	background-size: cover;
 	background-color: black;
-	float: bottom;
+	height: 300px;
+}
 
+#title{
+	text-transform: capitalize;
+	font-size: 40px;
+	font-family: 'Pirata One', cursive;
+	position: relative;
+		bottom: -240px;
+	background: transparent;
+	padding-left: 20px;
 }
 
 ul{
@@ -64,9 +70,13 @@ h3{
 	background-color: #333333;
 }
 
-article p, article a{
+article p, article a, article img{
 	background-color: #333333;
 	padding: 10px;
+}
+
+p{
+	text-align: justify;
 }
 
 h2{
