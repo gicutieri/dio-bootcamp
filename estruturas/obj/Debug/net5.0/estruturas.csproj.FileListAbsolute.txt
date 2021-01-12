@@ -1,0 +1,16 @@
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.exe
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.deps.json
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.runtimeconfig.json
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.runtimeconfig.dev.json
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.dll
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\ref\estruturas.dll
+C:\workspace\dio\bootcamp\estruturas\bin\Debug\net5.0\estruturas.pdb
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.csprojAssemblyReference.cache
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.AssemblyInfoInputs.cache
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.AssemblyInfo.cs
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.csproj.CoreCompileInputs.cache
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.dll
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\ref\estruturas.dll
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.pdb
+C:\workspace\dio\bootcamp\estruturas\obj\Debug\net5.0\estruturas.genruntimeconfig.cache

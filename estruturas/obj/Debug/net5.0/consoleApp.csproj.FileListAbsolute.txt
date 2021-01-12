@@ -1,0 +1,16 @@
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.exe
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.deps.json
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.runtimeconfig.json
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.runtimeconfig.dev.json
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.dll
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\ref\consoleApp.dll
+C:\workspace\dio\bootcamp\consoleApp\bin\Debug\net5.0\consoleApp.pdb
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.csprojAssemblyReference.cache
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.AssemblyInfoInputs.cache
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.AssemblyInfo.cs
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.dll
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\ref\consoleApp.dll
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.pdb
+C:\workspace\dio\bootcamp\consoleApp\obj\Debug\net5.0\consoleApp.genruntimeconfig.cache
