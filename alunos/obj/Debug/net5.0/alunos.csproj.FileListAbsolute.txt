@@ -1,0 +1,16 @@
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.csprojAssemblyReference.cache
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.AssemblyInfoInputs.cache
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.AssemblyInfo.cs
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.csproj.CoreCompileInputs.cache
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.exe
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.deps.json
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.runtimeconfig.json
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.runtimeconfig.dev.json
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.dll
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\ref\alunos.dll
+C:\workspace\dio\bootcamp\alunos\bin\Debug\net5.0\alunos.pdb
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.dll
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\ref\alunos.dll
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.pdb
+C:\workspace\dio\bootcamp\alunos\obj\Debug\net5.0\alunos.genruntimeconfig.cache
